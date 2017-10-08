@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Bittransfer_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bittransfer_master">
+				<Option output="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Bittransfer_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bittransfer_master"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bittransfer_master/fast">
+				<Option output="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Bittransfer_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.1.0-posix-seh-rt_v5-rev2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bittransfer_master/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Darksend-relay.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Darksend-relay.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Darksend.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Darksend.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Instantx.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/Instantx.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/activemasternode.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/activemasternode.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/addrman.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/addrman.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/alert.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/alert.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/allocators.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/allocators.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/amount.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/amount.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/arith_uint256.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/arith_uint256.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/base58.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/base58.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bip38.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bip38.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bittransfer-cli.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bittransfer-tx.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bittransferd.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bloom.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/bloom.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chain.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chain.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chainparams.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chainparams.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chainparamsbase.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chainparamsbase.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/chainparamsseeds.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/checkpoints.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/checkpoints.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/checkqueue.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/clientversion.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/clientversion.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/coincontrol.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/coins.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/coins.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/glibc_compat.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/glibc_sanity.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/glibcxx_compat.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/glibcxx_sanity.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/sanity.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compat/strnlen.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compressor.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/compressor.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/core_io.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/core_read.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/core_write.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypter.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypter.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/aes_helper.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/blake.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/bmw.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/common.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/cubehash.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/echo.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/groestl.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/hmac_sha256.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/hmac_sha256.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/hmac_sha512.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/hmac_sha512.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/jh.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/keccak.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/luffa.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/rfc6979_hmac_sha256.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/rfc6979_hmac_sha256.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/ripemd160.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/ripemd160.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/scrypt.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/scrypt.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha1.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha1.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha256.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha256.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha512.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sha512.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/shavite.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/simd.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/skein.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_blake.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_bmw.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_cubehash.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_echo.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_groestl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_jh.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_keccak.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_luffa.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_shavite.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_simd.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_skein.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/crypto/sph_types.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/db.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/db.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/eccryptoverify.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/eccryptoverify.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/ecwrapper.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/ecwrapper.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/hash.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/hash.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/init.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/init.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_error_position.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_reader.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_reader.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_reader_template.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_stream_reader.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_utils.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_value.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_value.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_writer.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_writer.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/json/json_spirit_writer_template.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/kernel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/kernel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/key.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/key.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/keystore.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/keystore.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/autocompact_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/builder.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/builder.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/c.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/c_test.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/corruption_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_bench.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_impl.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_iter.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_iter.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/db_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/dbformat.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/dbformat.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/dbformat_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/dumpfile.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/filename.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/filename.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/filename_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/leveldb_main.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_format.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_reader.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_reader.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_writer.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/log_writer.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/memtable.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/memtable.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/repair.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/skiplist.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/skiplist_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/snapshot.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/table_cache.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/table_cache.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_edit.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_edit.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_edit_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_set.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_set.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/version_set_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/write_batch.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/write_batch_internal.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/db/write_batch_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/doc/bench/db_bench_sqlite3.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/doc/bench/db_bench_tree_db.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/helpers/memenv/memenv.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/helpers/memenv/memenv.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/helpers/memenv/memenv_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/c.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/cache.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/comparator.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/db.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/dumpfile.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/env.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/filter_policy.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/iterator.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/options.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/slice.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/status.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/table.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/table_builder.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/include/leveldb/write_batch.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/issues/issue178_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/issues/issue200_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/atomic_pointer.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port_example.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port_posix.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port_posix.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port_win.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/port_win.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/thread_annotations.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/port/win/stdint.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/block.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/block.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/block_builder.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/block_builder.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/filter_block.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/filter_block.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/filter_block_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/format.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/format.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/iterator.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/iterator_wrapper.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/merger.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/merger.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/table.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/table_builder.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/table_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/two_level_iterator.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/table/two_level_iterator.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/arena.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/arena.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/arena_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/bloom.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/bloom_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/cache.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/cache_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/coding.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/coding.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/coding_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/comparator.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/crc32c.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/crc32c.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/crc32c_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/env.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/env_posix.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/env_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/env_win.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/filter_policy.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/hash.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/hash.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/hash_test.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/histogram.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/histogram.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/logging.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/logging.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/mutexlock.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/options.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/posix_logger.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/random.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/status.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/testharness.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/testharness.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/testutil.cc">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldb/util/testutil.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldbwrapper.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/leveldbwrapper.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/limitedmap.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/main.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/main.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-budget.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-budget.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-payments.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-payments.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-sync.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode-sync.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternode.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternodeconfig.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternodeconfig.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternodeman.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/masternodeman.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/merkleblock.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/merkleblock.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/miner.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/miner.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/mixTX-relay.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/mixTX-relay.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/mixTX.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/mixTX.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/mruset.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/net.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/net.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/netbase.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/netbase.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/noui.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/noui.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/pow.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/pow.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/primitives/block.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/primitives/block.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/primitives/transaction.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/primitives/transaction.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/protocol.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/protocol.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/pubkey.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/pubkey.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/Darksendconfig.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/Darksendconfig.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/addressbookpage.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/addressbookpage.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/addresstablemodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/addresstablemodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/askpassphrasedialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/askpassphrasedialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bip38tooldialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bip38tooldialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bittransfer.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bittransferstrings.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinaddressvalidator.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinaddressvalidator.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinamountfield.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinamountfield.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoingui.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoingui.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinunits.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/bitcoinunits.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/blockexplorer.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/blockexplorer.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/clientmodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/clientmodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coincontroldialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coincontroldialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coincontroltreewidget.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coincontroltreewidget.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coinmix.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/coinmix.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/csvmodelwriter.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/csvmodelwriter.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/editaddressdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/editaddressdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/guiconstants.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/guiutil.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/guiutil.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/intro.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/intro.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/macdockiconhandler.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/macnotificationhandler.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/masternodelist.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/masternodelist.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/mixTXconfig.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/mixTXconfig.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/multisenddialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/multisenddialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/networkstyle.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/networkstyle.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/notificator.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/notificator.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/openuridialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/openuridialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/optionsdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/optionsdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/optionsmodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/optionsmodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/overviewpage.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/overviewpage.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/paymentrequestplus.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/paymentrequestplus.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/paymentserver.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/paymentserver.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/peertablemodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/peertablemodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/platformstyle.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/platformstyle.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/qvalidatedlineedit.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/qvalidatedlineedit.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/qvaluecombobox.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/qvaluecombobox.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/receivecoinsdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/receivecoinsdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/receiverequestdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/receiverequestdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/recentrequeststablemodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/recentrequeststablemodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/rpcconsole.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/rpcconsole.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/sendcoinsdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/sendcoinsdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/sendcoinsentry.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/sendcoinsentry.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/signverifymessagedialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/signverifymessagedialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/splashscreen.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/splashscreen.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/paymentrequestdata.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/paymentservertests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/paymentservertests.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/test_main.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/uritests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/test/uritests.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/trafficgraphwidget.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/trafficgraphwidget.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiondesc.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiondesc.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiondescdialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiondescdialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionfilterproxy.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionfilterproxy.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionrecord.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionrecord.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiontablemodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactiontablemodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionview.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/transactionview.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/utilitydialog.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/utilitydialog.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletframe.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletframe.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletmodel.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletmodel.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletmodeltransaction.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletmodeltransaction.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletview.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/walletview.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/winshutdownmonitor.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/qt/winshutdownmonitor.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/quicktx.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/quicktx.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/random.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/random.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rest.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcblockchain.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcclient.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcclient.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcdump.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcmasternode-budget.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcmasternode.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcmining.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcmisc.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcnet.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcprotocol.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcprotocol.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcrawtransaction.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcserver.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcserver.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/rpcwallet.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/bitcoinconsensus.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/bitcoinconsensus.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/interpreter.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/interpreter.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/script.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/script.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/script_error.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/script_error.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/sigcache.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/sigcache.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/sign.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/sign.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/standard.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/script/standard.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/include/secp256k1.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/bench_inv.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/bench_sign.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/bench_verify.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecdsa.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecdsa_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/eckey.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/eckey_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecmult.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecmult_gen.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecmult_gen_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/ecmult_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_10x26.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_10x26_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_5x52.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_5x52_asm_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_5x52_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_5x52_int128_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_gmp.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_gmp_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/field_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/group.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/group_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/num.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/num_gmp.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/num_gmp_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/num_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar_4x64.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar_4x64_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar_8x32.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar_8x32_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/scalar_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/secp256k1.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/testrand.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/testrand_impl.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/tests.c">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/secp256k1/src/util.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/serialize.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/spork.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/spork.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/streams.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/sync.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/sync.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/Checkpoints_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/DoS_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/accounting_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/alert_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/allocator_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/arith_uint256_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/base32_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/base58_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/base64_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/bignum.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/bip32_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/bloom_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/checkblock_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/coins_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/compress_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/crypto_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/getarg_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/hash_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/key_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/main_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/mempool_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/miner_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/mruset_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/multisig_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/netbase_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/pmt_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/rpc_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/rpc_wallet_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/sanity_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/script_P2SH_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/script_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/scriptnum_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/serialize_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/sighash_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/sigopcount_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/skiplist_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/test_bittransfer.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/timedata_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/transaction_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/uint256_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/univalue_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/util_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/test/wallet_tests.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/threadsafety.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/timedata.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/timedata.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/tinyformat.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/txdb.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/txdb.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/txmempool.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/txmempool.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/ui_interface.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/uint256.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/uint256.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/uint512.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/undo.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/gen.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/univalue.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/univalue.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/univalue_escapes.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/univalue_read.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/univalue/univalue_write.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/util.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/util.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utilmoneystr.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utilmoneystr.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utilstrencodings.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utilstrencodings.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utiltime.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/utiltime.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/validationinterface.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/validationinterface.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/version.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/wallet.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/wallet.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/wallet_ismine.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/wallet_ismine.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/walletdb.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/walletdb.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqabstractnotifier.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqabstractnotifier.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqconfig.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqnotificationinterface.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqnotificationinterface.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqpublishnotifier.cpp">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/src/zmq/zmqpublishnotifier.h">
+			<Option target="Bittransfer_master"/>
+		</Unit>
+		<Unit filename="C:/Crypto_kitchen/Bittransfer-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,26 @@
+[Unit]
+Description=BTRF's distributed currency daemon
+After=network.target
+
+[Service]
+User=bittransfer
+Group=bittransfer
+
+Type=forking
+PIDFile=/var/lib/bittransferd/bittransferd.pid
+
+ExecStart=/usr/bin/bittransferd -daemon -pid=/var/lib/bittransferd/bittransferd.pid \
+          -conf=/etc/bittransfer/bittransfer.conf -datadir=/var/lib/bittransferd
+
+ExecStop=-/usr/bin/bittransfer-cli -conf=/etc/bittransfer/bittransfer.conf \
+         -datadir=/var/lib/bittransferd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,3 @@
+C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/CMakeFiles/Bittransfer_master.dir
+C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Crypto_kitchen/Bittransfer-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

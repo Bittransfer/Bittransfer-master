@@ -1,0 +1,26 @@
+# /etc/conf.d/bittransferd: config file for /etc/init.d/bittransferd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/bittransfer/bittransfer.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/bittransferd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/bittransferd.pid"
+
+# Where to write bittransferd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/bittransferd"
+
+# User and group to own bittransferd process
+#BITCOIND_USER="bittransfer"
+#BITCOIND_GROUP="bittransfer"
+
+# Path to bittransferd executable
+#BITCOIND_BIN="/usr/bin/bittransferd"
+
+# Nice value to run bittransferd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
