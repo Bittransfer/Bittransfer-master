@@ -3,7 +3,7 @@ Release Process
 
 Before every release candidate:
 
-* Update translations (ping Fuzzbawls on Slack) see [translation_process.md](https://github.com/LIMXTEC/Bittransfer/blob/master/doc/translation_process.md#synchronising-translations).
+* Update translations (ping Fuzzbawls on Slack) see [translation_process.md](https://github.com/Bittransfer/Bittransfer/blob/master/doc/translation_process.md#synchronising-translations).
 
 Before every minor and major release:
 
@@ -25,9 +25,9 @@ Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
     git clone https://github.com/bittransfer-project/gitian.sigs.git
-    git clone https://github.com/LIMXTEC/Bittransfer-detached-sigs.git
+    git clone https://github.com/Bittransfer/Bittransfer-master.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/LIMXTEC/Bittransfer.git
+    git clone https://github.com/Bittransfer/Bittransfer-master.git
 
 ### BTRF maintainers/release engineers, suggestion for writing release notes
 

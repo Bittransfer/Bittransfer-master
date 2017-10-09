@@ -17,7 +17,7 @@ osx=true
 SIGNER=
 VERSION=
 commit=false
-url=https://github.com/LIMXTEC/Bittransfer
+url=https://github.com/Bittransfer/Bittransfer-master
 proc=2
 mem=2000
 lxc=true
@@ -39,7 +39,7 @@ version		Version number, commit, or branch to build. If building a commit or bra
 
 Options:
 -c|--commit	Indicate that the version argument is for a commit or branch
--u|--url	Specify the URL of the repository. Default is https://github.com/LIMXTEC/Bittransfer
+-u|--url	Specify the URL of the repository. Default is https://github.com/Bittransfer/Bittransfer
 -v|--verify 	Verify the gitian build
 -b|--build	Do a gitian build
 -s|--sign	Make signed binaries for Windows and Mac OSX
@@ -233,7 +233,7 @@ if [[ $setup = true ]]
 then
     sudo apt-get install ruby apache2 git apt-cacher-ng python-vm-builder qemu-kvm qemu-utils
     git clone https://github.com/bittransfer-project/gitian.sigs.git
-    git clone https://github.com/LIMXTEC/Bittransfer-detached-sigs.git
+    git clone https://github.com/Bittransfer/Bittransfer-master.git
     git clone https://github.com/devrandom/gitian-builder.git
     pushd ./gitian-builder
     if [[ -n "$USE_LXC" ]]

@@ -41,7 +41,7 @@ The following are developer notes on how to build BTRF on your native platform. 
 
 Development
 ---------------------
-The Diamond repo's [root README](https://github.com/LIMXTEC/Bittransfer/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Diamond repo's [root README](https://github.com/Bittransfer/Bittransfer/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
