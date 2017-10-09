@@ -379,9 +379,9 @@ For example:
 ```bash
 URL=https://github.com/LIMXTEC/Bitcloud
 COMMIT=b616fb8ef0d49a919b72b0388b091aaec5849b96
-./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../bittransfer-master/contrib/gitian-descriptors/gitian-linux.yml
-./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../bittransfer-master/contrib/gitian-descriptors/gitian-win.yml
-./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../bittransfer-master/contrib/gitian-descriptors/gitian-osx.yml
+./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../Bittransfer-master/contrib/gitian-descriptors/gitian-linux.yml
+./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../Bittransfer-master/contrib/gitian-descriptors/gitian-win.yml
+./bin/gbuild --commit bittransfer=${COMMIT} --url bittransfer=${URL} ../Bittransfer-master/contrib/gitian-descriptors/gitian-osx.yml
 ```
 
 Signing externally
